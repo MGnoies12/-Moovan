@@ -10,8 +10,8 @@
 
 @font-face {
     font-family: 'Doran';
-    src: url('font/Doran.woff2') format('woff2'),
-         url('font/Doran.woff') format('woff'),
+    src: url('font/Motevaselian.woff2') format('woff2'),
+         url('font/Motevaselian.woff') format('woff');
          url('font/Motevaselian.ttf') format('truetype');
     font-weight: normal;
     font-display: swap;
